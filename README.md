@@ -21,7 +21,7 @@ Enter your option :
       .codeblocks
       .vs code
 
-#INSTALLATION IN LINUX:
+# INSTALLATION IN LINUX:
      1  sudo apt-get install gcc
      2  git clone https://github.com/KJPHOENIX/ALL_UNIT_CONVERTOR.git
      3  cd ALL_UNIT_CONVERTOR
