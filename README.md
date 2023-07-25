@@ -20,3 +20,10 @@ Enter your option :
 # APPLICATION USED:
       .codeblocks
       .vs code
+
+#INSTALLATION IN LINUX
+       sudo apt-get install gcc
+       git clone https://github.com/KJPHOENIX/ALL_UNIT_CONVERTOR.git
+       cd ALL_UNIT_CONVERTOR
+       gcc unit_conversion.c -o  unit_conversion
+      ./unit_conversion
